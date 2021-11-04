@@ -29,7 +29,6 @@ Outliner in Fare column after log transformation
 I split the data into train size of % and test size of 25% respectively.  
 
 I implemented three different models and evaluated them with different parameters.
-Classification model
 *	**Logistic Regression**
 *	**Random Forest Classifier**
 *	**Gradient Boosting Classifier**
