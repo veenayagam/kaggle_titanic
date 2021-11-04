@@ -1,4 +1,4 @@
-# Predict survival on the Titanic
+# Predict survival on the Titanic using Mito and MLflow Tracking
 # Project Overview 
 * Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 * Used Titanic datasets from Kaggle.(kaggle link provided below)
