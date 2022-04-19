@@ -34,6 +34,6 @@ I implemented three different models and evaluated them with different parameter
 *	**Gradient Boosting Classifier**
 
 ## Model Performance
-The Gradient Boosting Classifier far outperformed by having the highest score compared to the other models.
+The Gradient Boosting Classifier has slightly low recall but high score compared to the other models.
 ![model](https://user-images.githubusercontent.com/72549846/140297360-7def321d-30de-4006-8617-d542b02f5a5a.png)
 
