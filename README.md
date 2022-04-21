@@ -35,5 +35,6 @@ I implemented three different models and evaluated them with different parameter
 
 ## Model Performance
 The Gradient Boosting Classifier has a slightly low recall but high accuracy and score compared to the other models.
-![model](https://user-images.githubusercontent.com/72549846/140297360-7def321d-30de-4006-8617-d542b02f5a5a.png)
+![model_evaluation](https://user-images.githubusercontent.com/72549846/164373443-d6df3807-b51b-46f5-93ce-71a79ff75a00.png)
+
 
