@@ -34,7 +34,7 @@ I implemented three different models and evaluated them with different parameter
 *	**Gradient Boosting Classifier**
 
 ## Model Performance
-Based on the graph, the Gradient Boosting Classifier has the highest percision and accuracy compared to other models.
+Based on the graph, the Gradient Boosting Classifier has the highest percision and accuracy compared to other models. On overall, this model scored the highest compared to other models.
 ![model_evaluation](https://user-images.githubusercontent.com/72549846/164373443-d6df3807-b51b-46f5-93ce-71a79ff75a00.png)
 
 
